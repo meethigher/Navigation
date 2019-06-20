@@ -1,0 +1,14 @@
+﻿{
+  "name":"newTab",
+  "description":"言成的主页插件",
+  "version":"1.0",
+  "manifest_version":2,
+  "chrome_url_overrides":{
+    "newtab":"index.html"
+  },
+  "icons": {
+    "128": "favicon.ico",
+    "96": "favicon.ico",
+    "32":"favicon.ico"
+  }
+}
